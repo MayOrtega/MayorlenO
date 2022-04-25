@@ -1,4 +1,4 @@
-###<h2> Hola, soy May! 🦊 👩🏻‍💻 🎸</h2>
+<h2> Hola, soy May! 🦊 👩🏻‍💻 🎸<img src='https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif'></h2>
 ## <p><em>Mayorlen Ortega Torres - Front End Developer</em></p>
 
 
