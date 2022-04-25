@@ -1,5 +1,4 @@
-###<h2> Hola, soy May! <img src="https://giphy.com/gifs/drummachinefunk-develop-dmf-audiobunny-ZRiLoLix9pnW7cVB5y" width="50"></h2>
-
+###<h2> Hola, soy May!<a href="https://giphy.com/gifs/fox-animal-kawaii-xsE65jaPsUKUo"></a></h2>
 ## <p><em>Mayorlen Ortega Torres - Front End Developer</em></p>
 
 
