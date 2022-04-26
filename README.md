@@ -9,7 +9,8 @@
   <h4> ✔ Me encanta aprender de forma autodidacta y ampliar mis habilidades 💪 <br>
 ✔ Deseo  desarrollar mi carrera en el mundo de la tecnología y aportar a la vida de otras personas, como parte de un equipo colaborativo, enfrentando desafíos✌ <br>
   </h4>
-
+ <div align="center"><img src="https://avatars.githubusercontent.com/u/91227867" width="100"></div>
+                                                             
 
  <br>
   
